@@ -1,0 +1,14 @@
+C:\Users\kimerius\OneDrive\Рабочий стол\Seminar\bin\Debug\net8.0\Seminar.exe
+C:\Users\kimerius\OneDrive\Рабочий стол\Seminar\bin\Debug\net8.0\Seminar.deps.json
+C:\Users\kimerius\OneDrive\Рабочий стол\Seminar\bin\Debug\net8.0\Seminar.runtimeconfig.json
+C:\Users\kimerius\OneDrive\Рабочий стол\Seminar\bin\Debug\net8.0\Seminar.dll
+C:\Users\kimerius\OneDrive\Рабочий стол\Seminar\bin\Debug\net8.0\Seminar.pdb
+C:\Users\kimerius\OneDrive\Рабочий стол\Seminar\obj\Debug\net8.0\Seminar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimerius\OneDrive\Рабочий стол\Seminar\obj\Debug\net8.0\Seminar.AssemblyInfoInputs.cache
+C:\Users\kimerius\OneDrive\Рабочий стол\Seminar\obj\Debug\net8.0\Seminar.AssemblyInfo.cs
+C:\Users\kimerius\OneDrive\Рабочий стол\Seminar\obj\Debug\net8.0\Seminar.csproj.CoreCompileInputs.cache
+C:\Users\kimerius\OneDrive\Рабочий стол\Seminar\obj\Debug\net8.0\Seminar.dll
+C:\Users\kimerius\OneDrive\Рабочий стол\Seminar\obj\Debug\net8.0\refint\Seminar.dll
+C:\Users\kimerius\OneDrive\Рабочий стол\Seminar\obj\Debug\net8.0\Seminar.pdb
+C:\Users\kimerius\OneDrive\Рабочий стол\Seminar\obj\Debug\net8.0\Seminar.genruntimeconfig.cache
+C:\Users\kimerius\OneDrive\Рабочий стол\Seminar\obj\Debug\net8.0\ref\Seminar.dll
